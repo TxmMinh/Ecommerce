@@ -4,10 +4,18 @@
 ![1](https://github.com/TxmMinh/Ecommerce/assets/93864928/a27406e3-21c4-4186-a326-440124c909ef)
 ![2](https://github.com/TxmMinh/Ecommerce/assets/93864928/24ad95a0-0f8a-460b-80f4-253a8442038c)
 
+You click the button Add to Cart to add the product to your cart
+
 ### Choose login to add a new product
 ![5](https://github.com/TxmMinh/Ecommerce/assets/93864928/f6ac69f4-a06f-45cd-9cbe-d06ee1ce31ed)
-Account: username: admin123
-         password: admin123
+
+```
+Account:
+
+username: admin123
+         
+password: admin123
+```
 
 ### This a page admin
 ![6](https://github.com/TxmMinh/Ecommerce/assets/93864928/7b0777ab-f91a-4552-8a59-9346b2d71ba5)
@@ -18,8 +26,6 @@ Account: username: admin123
 ### You can add new product
 ![8](https://github.com/TxmMinh/Ecommerce/assets/93864928/2f2f2eb8-2b88-4c34-a6cd-c177bd61ec94)
 ![9](https://github.com/TxmMinh/Ecommerce/assets/93864928/1d5b4b71-33c8-45f3-bd1e-0e5ebc4a7666)
-
-You click the button Add to Cart to add the product to your cart
 
 ### And this a page cart
 ![3](https://github.com/TxmMinh/Ecommerce/assets/93864928/78a85a48-585e-4577-b7c2-e8432cf925c8)
