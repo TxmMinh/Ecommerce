@@ -19,7 +19,7 @@ username: admin123
 password: admin123
 ```
 
-### This a page admin
+### This is a page admin
 ![6](https://github.com/TxmMinh/Ecommerce/assets/93864928/7b0777ab-f91a-4552-8a59-9346b2d71ba5)
 
 ### You can create a new account for the customer
@@ -29,7 +29,7 @@ password: admin123
 ![8](https://github.com/TxmMinh/Ecommerce/assets/93864928/2f2f2eb8-2b88-4c34-a6cd-c177bd61ec94)
 ![9](https://github.com/TxmMinh/Ecommerce/assets/93864928/1d5b4b71-33c8-45f3-bd1e-0e5ebc4a7666)
 
-### And this a page cart
+### And this is a page cart
 ![3](https://github.com/TxmMinh/Ecommerce/assets/93864928/78a85a48-585e-4577-b7c2-e8432cf925c8)
 
 ### When you decrease the amount of product to 0, the product will be removed
