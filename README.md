@@ -1,5 +1,7 @@
 # Ecommerce with Django
 
+http://txmminh.pythonanywhere.com/
+
 ### This is a page store
 ![1](https://github.com/TxmMinh/Ecommerce/assets/93864928/a27406e3-21c4-4186-a326-440124c909ef)
 ![2](https://github.com/TxmMinh/Ecommerce/assets/93864928/24ad95a0-0f8a-460b-80f4-253a8442038c)
@@ -37,3 +39,4 @@ password: admin123
 + cd to the project and run this command "python manage.py runserver"
 
 + Use this command to create a new account for admin "python manage.py createsuperuser"
+
