@@ -34,5 +34,6 @@ password: admin123
 ![4](https://github.com/TxmMinh/Ecommerce/assets/93864928/70202565-e09d-412d-840e-2beacebe9b85)
 
 # Guild to run the project
-cd to the project and run this command "python manage.py runserver"
-use this command to create a new account for admin "python manage.py createsuperuser"
++ cd to the project and run this command "python manage.py runserver"
+
++ Use this command to create a new account for admin "python manage.py createsuperuser"
